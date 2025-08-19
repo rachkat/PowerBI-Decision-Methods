@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "Microsoft Power BI: Decision Methods and Modeling for Business Intelligence"
+authors:
+  - family-names: "YourLastName"
+    given-names: "YourFirstName"
+    affiliation: ""
+version: "1.0.0"
+date-released: "2025-08-19"
+url: "https://github.com/your-username/powerbi-decision-methods-bi"
